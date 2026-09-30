@@ -13,8 +13,9 @@
 
   I am designing this digital system for attendees, or people who are attending city events during the Diyandi Festival.
   
-  **Why might this group need support during Diyandi?**  [Briefly explain the group’s situation, goals, or needs.]
-  According to the Philippine Information Agency website, the city government of Iligan has lined up about 137 activities from September 1 to October 8. Diyandi Festival attendees may find themselves confused with the multitude of information available online regarding Diyandi-related festivities/events/programs, even with most of the information being readily-available online. 
+  **Why might this group need support during Diyandi?**  [Briefly explain the group’s situation, goals, or needs.]  
+
+According to the Philippine Information Agency website, the city government of Iligan has lined up about 137 activities from September 1 to October 8. Diyandi Festival attendees may find themselves confused with the multitude of information available online regarding Diyandi-related festivities/events/programs, even with most of the information being readily-available online. 
 
   ---
 
@@ -30,9 +31,9 @@
   ## 3. Problem or inconvenience
 
   **What may make this task difficult, confusing, unsafe, slow, or inconvenient?**  
-  [Describe one concrete problem. You may use personal experience, general knowledge, public information, or a reasonable assumption. If it is an assumption, state that it is an assumption.]
+  [Describe one concrete problem. You may use personal experience, general knowledge, public information, or a reasonable assumption. If it is an assumption, state that it is an assumption.]  
   
-  Based on my personal experience, Diyandi Festival events information is cluttered across several Iligan City Facebook pages like Diyandi Festival, City Government of Iligan, Iligan City Tourism and Iligan News. They are also found in blog/news sites you can search online such as: jontotheworld.com, goiligan.com and iligannews.com. News regarding events that already elapsed are also all over these pages.This makes discovering upcoming events difficult for attendees.
+Based on my personal experience, Diyandi Festival events information is cluttered across several Iligan City Facebook pages like Diyandi Festival, City Government of Iligan, Iligan City Tourism and Iligan News. They are also found in blog/news sites you can search online such as: jontotheworld.com, goiligan.com and iligannews.com. News regarding events that already elapsed are also all over these pages. This makes discovering upcoming events difficult for attendees.
 
   ---
 
@@ -40,6 +41,7 @@
 
   **What digital tool would you propose?**  
   [Describe a mobile application, website, kiosk, dashboard, notification service, digital map, registration system, or another digital tool.]
+ 
   A solution I would like to propose is a mobile application designed for Diyandi festival attendees so that they may be able to navigate their way through the extensive lineup of festival events with ease. Basically
 
 **How would it help the intended users?**  
@@ -53,8 +55,8 @@ This application would save them time scrolling through clutter of information b
 
 Describe **two specific actions** that users could perform using your proposed system.
 
-1. Be able to scroll through all the upcoming events in Diyandi 2026, organized into tabs based on the type of event such as sports, pageants, dance, concerts and etc. 
-2. Have a digital archive of previous events with links to wrap-up articles or news regarding them. Also be able to scroll through a photo gallery of the event
+1. Be able to scroll through all the upcoming events in Diyandi 2026, organized into tabs based on the type of event such as sports, pageants, dance, concerts and etc.
+2. Have a digital archive of previous events with links to wrap-up articles or news regarding them. Also be able to scroll through a photo gallery of the event  
 
 ---
 
@@ -62,16 +64,16 @@ Describe **two specific actions** that users could perform using your proposed s
 
 Identify **two qualities** that would make your proposed system useful. You may consider whether it should be easy to use, fast, reliable, safe, private, accessible, multilingual, low-data, clear, or available during high demand.
 
-### Quality 1: Aesthetically pleasing 
-**Why does this matter to users?**  
-[Explain why this quality is important for your selected user group and situation.]
+### Quality 1: Aesthetically pleasing  
+**Why does this matter to users?**
+[Explain why this quality is important for your selected user group and situation.]  
 
 Users would want to use an application if it is pleasing to look at
 
 ### Quality 2: Intuitive UI
 
 **Why does this matter to users?**  
-[Explain why this quality is important for your selected user group and situation.]
+[Explain why this quality is important for your selected user group and situation.]  
 
 UI must be easily navigable as it would beat the purpose of the application if it gets the user confused
 
