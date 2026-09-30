@@ -101,7 +101,11 @@ You may include **one screenshot** or reference image only if it does not contai
 
 **External sources used, if any:**  
 [Add links or citations here. If you did not use any external sources, write: None.]  
-None
+https://www.facebook.com/share/p/19oqbmGda2/
+https://www.iligannews.com/diyandi-festival-2026-calendar-of-activities/
+https://jontotheworld.com/diyandi-festival-complete-guide/
+https://goiligan.com/iligan-city-events/ 
+https://pia.gov.ph/news/iligan-unveils-137-events-for-diyandi-festival-2026/
 
 ---
 
